@@ -1,7 +1,7 @@
 ## Hi there! I'm André Ferreira 
  <div>
   <a href="https://github.com/andrefferr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefferr&show_icons=true&theme=vision-friendly-dark&hide_border&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefferr&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefferr&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 <div>
 <div style="display: inline_block"><br>
